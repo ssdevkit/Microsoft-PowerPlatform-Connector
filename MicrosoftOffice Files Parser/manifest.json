@@ -3,8 +3,8 @@
         "name": "StevenSoe",
         "displayName": "Steven Soe",
         "websiteUrl": "https://github.com/ssdevkit",
-        "privacyUrl": "https://github.com/ssdevkit#privacy-policy",
-        "termsOfUseUrl": "https://github.com/ssdevkit#terms-of-use"
+        "privacyUrl": "https://raw.githubusercontent.com/ssdevkit/Microsoft-PowerPlatform-Connector/main/MicrosoftOffice%20Files%20Parser/privacy.md",
+        "termsOfUseUrl": "https://raw.githubusercontent.com/ssdevkit/Microsoft-PowerPlatform-Connector/main/MicrosoftOffice%20Files%20Parser/terms.md"
     },
     "id": "MicrosoftOfficeFilesParser",
     "name": "MicrosoftOfficeFilesParser",
